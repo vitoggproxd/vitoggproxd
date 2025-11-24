@@ -28,3 +28,5 @@ Building simple but meaningful projects 🔧
 Create reliable and well-structured projects
 
 Grow steadily while respecting solid, time-tested methods
+
+![Cute Image](https://media.tenor.com/GG5iZUWsbhMAAAAM/spider-man.gif)
